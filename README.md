@@ -14,9 +14,10 @@ Competition: Sam Gordon James, Miranda Elaine Glynis Armstrong, Aisling Ann O'Ka
 General Overview:
 
 1. Uploading data ZIP file
+
    Once you download the data, you must change the portion in the code to correctly link to the filepath where you saved the downloaded csv files. You can copy and paste your filepath directly into the notebook.
 
-2. Preprocessing Data
+3. Preprocessing Data
    
    2.1 Generate descriptive statistics
    
@@ -35,9 +36,9 @@ General Overview:
    2.7 eliminate outliers using IQR method
    
 
-3. Create ANN and Linear Regression Models
+4. Create ANN and Linear Regression Models
 
-4. Use Matplotlib to plot results of model efficacy
+5. Use Matplotlib to plot results of model efficacy
    
    4.1 Model Loss Evaluation
    

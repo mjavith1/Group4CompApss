@@ -14,6 +14,7 @@ Competition: Sam Gordon James, Miranda Elaine Glynis Armstrong, Aisling Ann O'Ka
 General Overview:
 
 1. Uploading data ZIP file
+   Once you download the data, you must change the portion in the code to correctly link to the filepath where you saved the downloaded csv files. You can copy and paste your filepath directly into the notebook.
 
 2. Preprocessing Data
    
@@ -34,19 +35,19 @@ General Overview:
    2.7 eliminate outliers using IQR method
    
 
-4. Create ANN and Linear Regression Models
+3. Create ANN and Linear Regression Models
 
-5. Use Matplotlib to plot results of model efficacy
+4. Use Matplotlib to plot results of model efficacy
    
-   5.1 Model Loss Evaluation
+   4.1 Model Loss Evaluation
    
-   5.2 Prediction Error Plot
+   4.2 Prediction Error Plot
    
-   5.3 Histogram of Residuals
+   4.3 Histogram of Residuals
 
-   5.4 ANN Model Predictions vs Actual
+   4.4 ANN Model Predictions vs Actual
    
-   5.5 Receiver Operating Characteristic (ROC) Curve
+   4.5 Receiver Operating Characteristic (ROC) Curve
 
 
 Prediction Models:
